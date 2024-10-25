@@ -1,0 +1,24 @@
+Package: enigma2-plugin-extensions-zoom
+Version: v1.0
+Description: Zoom
+Maintainer: Zoom
+Architecture: all
+Priority: optional
+Section: base
+Size: 9682
+Filename: enigma2-plugin-extensions-zoom_v1.0_all.ipk
+MD5sum: cefec7195d599c5a57063bcdc3daf8ef
+SHA256sum: d74d713f905f3f296f1f019cfab45fe84194a6ecfa0602e4303d66c30fb4a258
+
+Package: enigma2-plugin-extensions-ipaudiopro
+Version: v1.0
+Description: IPaudioPro
+Maintainer: IPaudioPro
+Architecture: all
+Priority: optional
+Section: base
+Size: 6602638
+Filename: enigma2-plugin-extensions-ipaudiopro_v1.0_all.ipk
+MD5sum: 7dfa5bb0cf7276beb47ec56549efb56c
+SHA256sum: d6ea69624a65952e4aca0b5fd524be8110dba53584d9011a7cda5ea64058477f
+
